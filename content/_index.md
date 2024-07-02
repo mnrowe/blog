@@ -10,5 +10,3 @@ interested in anything that increases my productivity, so you will also find
 writings on Zettelkasten, (Neo)vim, study techniques and anything that has to do
 with taking notes.
 
-This blog have is to help me learn information faster ther and hopefully provide content for others.
-
