@@ -85,10 +85,6 @@ menu:
       name: "Services"
       url: /services/
       weight: 13
-    - identifier: Courses
-      name: "Courses"
-      url: /courses/
-      weight: 15
     - identifier: Contact
       name: "Contact"
       url: /contact/
