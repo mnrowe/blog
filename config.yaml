@@ -9,6 +9,8 @@ buildFuture: true
 buildExpired: true
 pygmentsUseClasses: true
 
+ignoreLogs: ["warning-goldmark-raw-html"]
+
 minify:
   disableXML: true
   minifyOutput: true
@@ -16,9 +18,11 @@ minify:
 params:
   #env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Matthew Rowe - Blog
-  description: "Writing about the things I learn in my Cloud Native work: Kubernetes, Azure, Vim, Linux, Coding, Productivity"
+  description: "Writing about the things I learn about: Security, Kubernetes, Azure, Linux, Coding, and Productivity"
   keywords:
     [
+      Security,
+      Kubernetes,
       Blog,
       Portfolio,
       CV,
@@ -77,18 +81,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    #- identifier: About
-      #name: "About"
-      #url: /aboutme/
-      #weight: 10
-    - identifier: Services
-      name: "Services"
-      url: /services/
-      weight: 13
-    - identifier: Contact
-      name: "Contact"
-      url: /contact/
-      weight: 17
+    - identifier: About
+      name: "About"
+      url: /aboutme/
+      weight: 10
+    # - identifier: Services
+    #   name: "Services"
+    #   url: /services/
+    #   weight: 13
+    # - identifier: Contact
+    #   name: "Contact"
+    #   url: /contact/
+    #   weight: 17
     # - identifier: Current
     #   name: "Current"
     #   url: /current/

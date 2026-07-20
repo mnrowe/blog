@@ -1,0 +1,7 @@
+# Hugo build output — Cloudflare Pages builds from source, so these shouldn't be tracked
+public/
+resources/
+.hugo_build.lock
+
+# OS cruft
+.DS_Store
