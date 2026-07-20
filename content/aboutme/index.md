@@ -3,14 +3,13 @@ title: About
 ---
 
 # About me
+I'm Matthew. I took the scenic route to security — spent years in other industries before landing in IT support, then moved into security ops when things finally clicked. I've always been driven by the same thing: automating the tedious stuff so I can actually think about what matters.
 
-I'm Matthew. I work in information security, and I got here the long way — several years in other industries before moving into IT support and then into security operations, which is where the work finally clicked. What's always driven me is the same thing: finding a way to automate the tedious parts so I can spend my attention on the problems that actually matter.
+These days I'm a **Senior Information Security Officer**. Most weeks I'm monitoring and responding to alerts across **Microsoft Sentinel**, EDR/XDR, and everything in between — endpoint, email, identity, cloud telemetry. I run incidents from triage through root cause and remediation, and I own the controls that make it all work: **Entra ID and Active Directory** for identity, endpoint and email security, and whatever we need to stay aligned to **SOC 2, ISO 27001, and NIST**.
 
-Today I'm a **Senior Information Security Officer**. On any given week that means monitoring and responding to alerts across endpoint, email, identity, and cloud telemetry in **Microsoft Sentinel** and EDR/XDR, running incidents from triage through root cause and remediation, and owning the controls behind that response — identity and access in **Entra ID and Active Directory**, endpoint and email security, and the evidence that keeps us aligned to **SOC 2, ISO 27001, and NIST**.
+The part that actually excites me is making security repeatable. I've built our **Cloudflare Zero Trust access as code in Terraform**, scripted **Microsoft Intune configuration in PowerShell**, migrated production onto a self-managed **RKE2 cluster with Flux GitOps**, and created an **AI-assisted support pipeline** (Claude + Hermes) to take the routine tier-1 work off the team's plate. I'd rather ship a control you can review in a pull request than watch someone click through a portal.
 
-The part I enjoy most is turning security into something reproducible. I've built our **Cloudflare Zero Trust access as code in Terraform**, stood up **Microsoft Intune configuration as code** with PowerShell, migrated production workloads onto a self-managed **RKE2 Kubernetes** platform with **Flux GitOps**, and built an **AI-assisted support pipeline** (Claude + Hermes) to take routine tier-1 work off the team's plate. I'd rather ship a control you can review in a pull request than click through a portal.
-
-Outside of work I'm always studying — I run a homelab, work through security and Linux labs, and I'm a heavy believer in learning by building and in spaced repetition to make it stick. This blog is part of that: writing things down is how I understand them, and publishing keeps me honest.
+Outside work I'm always building something — running a homelab, working through security and Linux labs. I learn by doing and believe in spaced repetition to make things stick. This blog is part of that: writing things down forces me to actually understand them, and publishing keeps me honest.
 
 I hold **CompTIA Security+** and I'm an **Associate of ISC2**.
 
