@@ -2,7 +2,7 @@
 title: Home
 ---
 
-I'm Matthew, a security engineer working on detection, response, cloud infrastructure, and identity systems. Most of my time is spent hunting threats in Microsoft Sentinel, building Zero Trust access with Entra ID and Cloudflare, and automating the repetitive stuff with PowerShell, Python, and Terraform. I prefer security work that lives in actual code, not slides.
+I'm Matthew, a Senior Information Security Officer working on detection, response, cloud infrastructure, and identity systems. Most of my time is spent hunting threats in Microsoft Sentinel, building Zero Trust access with Entra ID and Cloudflare, and automating the repetitive stuff with PowerShell, Python, and Terraform. I prefer security work that lives in actual code, not slides.
 
 I write here to organize what I've learned and share patterns that might save you some frustration. Most posts cover detection engineering, Kubernetes, Azure, Linux, infrastructure as code, and the tools I use to keep it all organized (Obsidian, spaced repetition, neovim).
 
